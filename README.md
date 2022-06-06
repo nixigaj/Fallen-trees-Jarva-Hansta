@@ -10,7 +10,7 @@
 
 #### Datan i detta projekt är presenterad i två former:
 
-- [<code>Fallen-trees-Jarva-Hansta.md</code>](Fallen-trees-Jarva-Hansta.md): Det mest lättilgängliga sättet att läsa datan. En enda stor fil som innehåller 3 tabeller. En tabell för varje naturresvervat/kommun.
+- [<code>Fallen-trees-Jarva-Hansta.md</code>](Fallen-trees-Jarva-Hansta.md): Det mest lättillgängliga sättet att läsa datan. En enda stor fil som innehåller 3 tabeller. En tabell för varje naturreservat/kommun.
 
 - Ett QGIS-projekt: Bläddra mellan alla objekt på en interaktiv karta, där du kan se tydlig plats, geotaggade bilder, och all övrig information.
 
@@ -18,6 +18,9 @@
 
 🚧 Under konstruktion! 🚧
 
+## Datans trovärdighet
+
+🚧 Under konstruktion! 🚧
 
 ## Hur du kan bidra med data
 
