@@ -12,9 +12,9 @@
 
 - [<code>Fallen-trees-Jarva-Hansta.md</code>](Fallen-trees-Jarva-Hansta.md): Det mest lättilgängliga sättet att läsa datan. En enda stor fil som innehåller 3 tabeller. En tabell för varje naturresvervat/kommun.
 
-- Ett QGIS projekt: Bläddra mellan alla objekt på en interaktiv karta, där du kan se tydlig plats, geotaggade bilder, och all övrig information.
+- Ett QGIS-projekt: Bläddra mellan alla objekt på en interaktiv karta, där du kan se tydlig plats, geotaggade bilder, och all övrig information.
 
-## Läsa datan i QGIS projektet
+## Läsa datan i QGIS-projektet
 
 🚧 Under konstruktion! 🚧
 
